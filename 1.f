@@ -1,0 +1,1 @@
+vcs -debug -full64 rom.v abValMod.v sadMod.v counterMod.v romLoaderMod.v sadComparatorMod.v sadCircuitMod.v sadCircuitMod_tb.v

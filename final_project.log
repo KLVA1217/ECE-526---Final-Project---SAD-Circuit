@@ -1,0 +1,25 @@
+Command: /home/users12/kva87021/finalProject/./simv -l final_project.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Dec  2 22:49 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+0: Output Valid: x, smallSAD: 8388607, smallSADIndexA: x, smallSADIndexB: x, largeSAD: 0, largeSADIndexA: x, largeSADIndexB: x
+5: Output Valid: 0, smallSAD: 8388607, smallSADIndexA: x, smallSADIndexB: x, largeSAD: 0, largeSADIndexA: x, largeSADIndexB: x
+15: Output Valid: 0, smallSAD: 717, smallSADIndexA: 1, smallSADIndexB: 3, largeSAD: 717, largeSADIndexA: 1, largeSADIndexB: 3
+25: Output Valid: 0, smallSAD: 717, smallSADIndexA: 1, smallSADIndexB: 3, largeSAD: 724, largeSADIndexA: 1, largeSADIndexB: 4
+35: Output Valid: 0, smallSAD: 717, smallSADIndexA: 1, smallSADIndexB: 3, largeSAD: 770, largeSADIndexA: 1, largeSADIndexB: 5
+45: Output Valid: 0, smallSAD: 649, smallSADIndexA: 1, smallSADIndexB: 6, largeSAD: 770, largeSADIndexA: 1, largeSADIndexB: 5
+75: Output Valid: 0, smallSAD: 649, smallSADIndexA: 1, smallSADIndexB: 6, largeSAD: 818, largeSADIndexA: 1, largeSADIndexB: 9
+125: Output Valid: 0, smallSAD: 525, smallSADIndexA: 1, smallSADIndexB: 14, largeSAD: 818, largeSADIndexA: 1, largeSADIndexB: 9
+195: Output Valid: 0, smallSAD: 525, smallSADIndexA: 1, smallSADIndexB: 14, largeSAD: 895, largeSADIndexA: 2, largeSADIndexB: 7
+295: Output Valid: 0, smallSAD: 487, smallSADIndexA: 2, smallSADIndexB: 4, largeSAD: 895, largeSADIndexA: 2, largeSADIndexB: 7
+605: Output Valid: 0, smallSAD: 460, smallSADIndexA: 5, smallSADIndexB: 12, largeSAD: 895, largeSADIndexA: 2, largeSADIndexB: 7
+685: Output Valid: 0, smallSAD: 460, smallSADIndexA: 5, smallSADIndexB: 12, largeSAD: 960, largeSADIndexA: 6, largeSADIndexB: 10
+805: Output Valid: 0, smallSAD: 460, smallSADIndexA: 5, smallSADIndexB: 12, largeSAD: 1019, largeSADIndexA: 7, largeSADIndexB: 13
+1205: Output Valid: 1, smallSAD: 460, smallSADIndexA: 5, smallSADIndexB: 12, largeSAD: 1019, largeSADIndexA: 7, largeSADIndexB: 13
+$finish called from file "sadCircuitMod_tb.v", line 39.
+$finish at simulation time                 1210
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1210
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Thu Dec  2 22:49:28 2021
